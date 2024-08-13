@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AtomBlog.JWT/1.0.0": {
+        "dependencies": {
+          "AtomBlog.IService": "1.0.0",
+          "AtomBlog.Model": "1.0.0"
+        },
+        "runtime": {
+          "AtomBlog.JWT.dll": {}
+        }
+      },
+      "AtomBlog.IService/1.0.0": {
+        "runtime": {
+          "AtomBlog.IService.dll": {}
+        }
+      },
+      "AtomBlog.Model/1.0.0": {
+        "runtime": {
+          "AtomBlog.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AtomBlog.JWT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AtomBlog.IService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AtomBlog.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

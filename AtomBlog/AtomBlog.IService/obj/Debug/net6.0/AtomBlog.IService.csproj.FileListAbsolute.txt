@@ -1,0 +1,12 @@
+E:\KIEN\Project\AtomBlog\AtomBlog.IService\bin\Debug\net6.0\AtomBlog.IService.deps.json
+E:\KIEN\Project\AtomBlog\AtomBlog.IService\bin\Debug\net6.0\AtomBlog.IService.dll
+E:\KIEN\Project\AtomBlog\AtomBlog.IService\bin\Debug\net6.0\AtomBlog.IService.pdb
+E:\KIEN\Project\AtomBlog\AtomBlog.IService\obj\Debug\net6.0\AtomBlog.IService.csproj.AssemblyReference.cache
+E:\KIEN\Project\AtomBlog\AtomBlog.IService\obj\Debug\net6.0\AtomBlog.IService.GeneratedMSBuildEditorConfig.editorconfig
+E:\KIEN\Project\AtomBlog\AtomBlog.IService\obj\Debug\net6.0\AtomBlog.IService.AssemblyInfoInputs.cache
+E:\KIEN\Project\AtomBlog\AtomBlog.IService\obj\Debug\net6.0\AtomBlog.IService.AssemblyInfo.cs
+E:\KIEN\Project\AtomBlog\AtomBlog.IService\obj\Debug\net6.0\AtomBlog.IService.csproj.CoreCompileInputs.cache
+E:\KIEN\Project\AtomBlog\AtomBlog.IService\obj\Debug\net6.0\AtomBlog.IService.dll
+E:\KIEN\Project\AtomBlog\AtomBlog.IService\obj\Debug\net6.0\refint\AtomBlog.IService.dll
+E:\KIEN\Project\AtomBlog\AtomBlog.IService\obj\Debug\net6.0\AtomBlog.IService.pdb
+E:\KIEN\Project\AtomBlog\AtomBlog.IService\obj\Debug\net6.0\ref\AtomBlog.IService.dll

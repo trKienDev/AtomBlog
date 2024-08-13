@@ -1,0 +1,181 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "AtomBlog.IRepository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AtomBlog.IRepository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AtomBlog.IRepository.dll": {}
+        }
+      },
+      "AtomBlog.IService/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AtomBlog.IService.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AtomBlog.IService.dll": {}
+        }
+      },
+      "AtomBlog.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AtomBlog.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AtomBlog.Model.dll": {}
+        }
+      },
+      "AtomBlog.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AtomBlog.IRepository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AtomBlog.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AtomBlog.Repository.dll": {}
+        }
+      },
+      "AtomBlog.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AtomBlog.IService": "1.0.0",
+          "AtomBlog.Repository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AtomBlog.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AtomBlog.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AtomBlog.IRepository/1.0.0": {
+      "type": "project",
+      "path": "../AtomBlog.IRepository/AtomBlog.IRepository.csproj",
+      "msbuildProject": "../AtomBlog.IRepository/AtomBlog.IRepository.csproj"
+    },
+    "AtomBlog.IService/1.0.0": {
+      "type": "project",
+      "path": "../AtomBlog.IService/AtomBlog.IService.csproj",
+      "msbuildProject": "../AtomBlog.IService/AtomBlog.IService.csproj"
+    },
+    "AtomBlog.Model/1.0.0": {
+      "type": "project",
+      "path": "../AtomBlog.Model/AtomBlog.Model.csproj",
+      "msbuildProject": "../AtomBlog.Model/AtomBlog.Model.csproj"
+    },
+    "AtomBlog.Repository/1.0.0": {
+      "type": "project",
+      "path": "../AtomBlog.Repository/AtomBlog.Repository.csproj",
+      "msbuildProject": "../AtomBlog.Repository/AtomBlog.Repository.csproj"
+    },
+    "AtomBlog.Service/1.0.0": {
+      "type": "project",
+      "path": "../AtomBlog.Service/AtomBlog.Service.csproj",
+      "msbuildProject": "../AtomBlog.Service/AtomBlog.Service.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "AtomBlog.Model >= 1.0.0",
+      "AtomBlog.Service >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Hoairion\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\KIEN\\Project\\AtomBlog\\AtomBlog.WebApi\\AtomBlog.WebApi.csproj",
+      "projectName": "AtomBlog.WebApi",
+      "projectPath": "E:\\KIEN\\Project\\AtomBlog\\AtomBlog.WebApi\\AtomBlog.WebApi.csproj",
+      "packagesPath": "C:\\Users\\Hoairion\\.nuget\\packages\\",
+      "outputPath": "E:\\KIEN\\Project\\AtomBlog\\AtomBlog.WebApi\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Hoairion\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "E:\\KIEN\\Project\\AtomBlog\\AtomBlog.Model\\AtomBlog.Model.csproj": {
+              "projectPath": "E:\\KIEN\\Project\\AtomBlog\\AtomBlog.Model\\AtomBlog.Model.csproj"
+            },
+            "E:\\KIEN\\Project\\AtomBlog\\AtomBlog.Service\\AtomBlog.Service.csproj": {
+              "projectPath": "E:\\KIEN\\Project\\AtomBlog\\AtomBlog.Service\\AtomBlog.Service.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.21, 6.0.21]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.21, 6.0.21]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.21, 6.0.21]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

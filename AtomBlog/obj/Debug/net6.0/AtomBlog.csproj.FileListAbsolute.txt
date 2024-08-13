@@ -1,0 +1,5 @@
+E:\KIEN\Project\AtomBlog\obj\Debug\net6.0\AtomBlog.csproj.AssemblyReference.cache
+E:\KIEN\Project\AtomBlog\obj\Debug\net6.0\AtomBlog.GeneratedMSBuildEditorConfig.editorconfig
+E:\KIEN\Project\AtomBlog\obj\Debug\net6.0\AtomBlog.AssemblyInfoInputs.cache
+E:\KIEN\Project\AtomBlog\obj\Debug\net6.0\AtomBlog.AssemblyInfo.cs
+E:\KIEN\Project\AtomBlog\obj\Debug\net6.0\AtomBlog.csproj.CoreCompileInputs.cache

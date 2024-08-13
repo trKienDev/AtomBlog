@@ -1,0 +1,84 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AtomBlog.WebApi/1.0.0": {
+        "dependencies": {
+          "AtomBlog.Model": "1.0.0",
+          "AtomBlog.Service": "1.0.0"
+        },
+        "runtime": {
+          "AtomBlog.WebApi.dll": {}
+        }
+      },
+      "AtomBlog.IRepository/1.0.0": {
+        "runtime": {
+          "AtomBlog.IRepository.dll": {}
+        }
+      },
+      "AtomBlog.IService/1.0.0": {
+        "runtime": {
+          "AtomBlog.IService.dll": {}
+        }
+      },
+      "AtomBlog.Model/1.0.0": {
+        "runtime": {
+          "AtomBlog.Model.dll": {}
+        }
+      },
+      "AtomBlog.Repository/1.0.0": {
+        "dependencies": {
+          "AtomBlog.IRepository": "1.0.0"
+        },
+        "runtime": {
+          "AtomBlog.Repository.dll": {}
+        }
+      },
+      "AtomBlog.Service/1.0.0": {
+        "dependencies": {
+          "AtomBlog.IService": "1.0.0",
+          "AtomBlog.Repository": "1.0.0"
+        },
+        "runtime": {
+          "AtomBlog.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AtomBlog.WebApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AtomBlog.IRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AtomBlog.IService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AtomBlog.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AtomBlog.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AtomBlog.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

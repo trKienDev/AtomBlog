@@ -1,0 +1,12 @@
+E:\KIEN\Project\AtomBlog\AtomBlog.IRepository\bin\Debug\net6.0\AtomBlog.IRepository.deps.json
+E:\KIEN\Project\AtomBlog\AtomBlog.IRepository\bin\Debug\net6.0\AtomBlog.IRepository.dll
+E:\KIEN\Project\AtomBlog\AtomBlog.IRepository\bin\Debug\net6.0\AtomBlog.IRepository.pdb
+E:\KIEN\Project\AtomBlog\AtomBlog.IRepository\obj\Debug\net6.0\AtomBlog.IRepository.csproj.AssemblyReference.cache
+E:\KIEN\Project\AtomBlog\AtomBlog.IRepository\obj\Debug\net6.0\AtomBlog.IRepository.GeneratedMSBuildEditorConfig.editorconfig
+E:\KIEN\Project\AtomBlog\AtomBlog.IRepository\obj\Debug\net6.0\AtomBlog.IRepository.AssemblyInfoInputs.cache
+E:\KIEN\Project\AtomBlog\AtomBlog.IRepository\obj\Debug\net6.0\AtomBlog.IRepository.AssemblyInfo.cs
+E:\KIEN\Project\AtomBlog\AtomBlog.IRepository\obj\Debug\net6.0\AtomBlog.IRepository.csproj.CoreCompileInputs.cache
+E:\KIEN\Project\AtomBlog\AtomBlog.IRepository\obj\Debug\net6.0\AtomBlog.IRepository.dll
+E:\KIEN\Project\AtomBlog\AtomBlog.IRepository\obj\Debug\net6.0\refint\AtomBlog.IRepository.dll
+E:\KIEN\Project\AtomBlog\AtomBlog.IRepository\obj\Debug\net6.0\AtomBlog.IRepository.pdb
+E:\KIEN\Project\AtomBlog\AtomBlog.IRepository\obj\Debug\net6.0\ref\AtomBlog.IRepository.dll

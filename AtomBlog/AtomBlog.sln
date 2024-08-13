@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtomBlog.IRepository", "AtomBlog.IRepository\AtomBlog.IRepository.csproj", "{5FEDB99A-2B12-44E5-A0EC-56382D5EF3D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtomBlog.IService", "AtomBlog.IService\AtomBlog.IService.csproj", "{2364855A-8695-48F6-B5BD-F1351DDB6D98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtomBlog.Repository", "AtomBlog.Repository\AtomBlog.Repository.csproj", "{81D2BDE2-E8F3-419A-B311-28E1AB863F6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtomBlog.Service", "AtomBlog.Service\AtomBlog.Service.csproj", "{9B926CEA-2313-4C4F-87FF-5248C31F72BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtomBlog.Model", "AtomBlog.Model\AtomBlog.Model.csproj", "{CDD62993-4B09-4464-9C6B-10ED3F68B19B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtomBlog.WebApi", "AtomBlog.WebApi\AtomBlog.WebApi.csproj", "{DB3DB707-562A-4395-BC0A-71B1C3F42C50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtomBlog.JWT", "AtomBlog.JWT\AtomBlog.JWT.csproj", "{B61E2656-A79B-44B7-92D4-9C69EA486D71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FEDB99A-2B12-44E5-A0EC-56382D5EF3D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FEDB99A-2B12-44E5-A0EC-56382D5EF3D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FEDB99A-2B12-44E5-A0EC-56382D5EF3D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FEDB99A-2B12-44E5-A0EC-56382D5EF3D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2364855A-8695-48F6-B5BD-F1351DDB6D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2364855A-8695-48F6-B5BD-F1351DDB6D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2364855A-8695-48F6-B5BD-F1351DDB6D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2364855A-8695-48F6-B5BD-F1351DDB6D98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81D2BDE2-E8F3-419A-B311-28E1AB863F6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81D2BDE2-E8F3-419A-B311-28E1AB863F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81D2BDE2-E8F3-419A-B311-28E1AB863F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81D2BDE2-E8F3-419A-B311-28E1AB863F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B926CEA-2313-4C4F-87FF-5248C31F72BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B926CEA-2313-4C4F-87FF-5248C31F72BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B926CEA-2313-4C4F-87FF-5248C31F72BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B926CEA-2313-4C4F-87FF-5248C31F72BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDD62993-4B09-4464-9C6B-10ED3F68B19B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD62993-4B09-4464-9C6B-10ED3F68B19B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD62993-4B09-4464-9C6B-10ED3F68B19B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD62993-4B09-4464-9C6B-10ED3F68B19B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB3DB707-562A-4395-BC0A-71B1C3F42C50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB3DB707-562A-4395-BC0A-71B1C3F42C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB3DB707-562A-4395-BC0A-71B1C3F42C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB3DB707-562A-4395-BC0A-71B1C3F42C50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B61E2656-A79B-44B7-92D4-9C69EA486D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B61E2656-A79B-44B7-92D4-9C69EA486D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B61E2656-A79B-44B7-92D4-9C69EA486D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B61E2656-A79B-44B7-92D4-9C69EA486D71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

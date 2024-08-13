@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ue9XLecGF52pOif84hi9n7PWMJxxQKHZT6SGweC9ZJgFVoI1nOcBKovtMIZIm0uLvXdR3aOVV0wD/03cY7ZZWw==",
+  "success": true,
+  "projectFilePath": "E:\\KIEN\\Project\\AtomBlog\\AtomBlog.IService\\AtomBlog.IService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hoairion\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Hoairion\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Hoairion\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
